@@ -13,6 +13,7 @@ class Rodeo < Formula
     bin.install "rodeo"
     man1.install "rodeo.1" if File.exist?("rodeo.1")
     doc.install "README.md"
+    pkgshare.install "themes"
   end
 
   test do
