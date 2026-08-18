@@ -3,7 +3,7 @@ class Rodeo < Formula
   homepage "https://github.com/lordgreg/rodeo"
   # Populated automatically by rodeo's release.yml on every published tag.
   url "https://github.com/lordgreg/rodeo/releases/download/v0.4.0/rodeo-0.4.0-aarch64-apple-darwin.tar.gz"
-  sha256 "136fc5a08a788b6645713f87c78142d59d747eaab92cfab368e499dfa6105665"
+  sha256 "7a907dab2f25757620d8d22ddbdd97ae10dcdca085b8a82b9e4837e80da0f885"
   license "Apache-2.0"
 
   depends_on arch: :arm64
