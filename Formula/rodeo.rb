@@ -2,8 +2,8 @@ class Rodeo < Formula
   desc "Dual-pane terminal file manager with Vim-style keybindings"
   homepage "https://github.com/lordgreg/rodeo"
   # Populated automatically by rodeo's release.yml on every published tag.
-  url "https://github.com/lordgreg/rodeo/releases/download/v0.5.1/rodeo-0.5.1-aarch64-apple-darwin.tar.gz"
-  sha256 "6ecdfacab131ebe166f16e2df60c54a4b9fd404e5575f933cda0cebdd5b14030"
+  url "https://github.com/lordgreg/rodeo/releases/download/v0.6.0/rodeo-0.6.0-aarch64-apple-darwin.tar.gz"
+  sha256 "70ee54e667f554b9e9e2b1c26d4733c71459fd01bd2a1647f5b1ae0d132de952"
   license "Apache-2.0"
 
   depends_on arch: :arm64
